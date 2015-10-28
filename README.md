@@ -1,14 +1,12 @@
 # unity-virtualweekend
-A simple demonstration project for Android Smartphone with CardBoard, made with Unity5
+A simple demonstration project for Android Smartphone with CardBoard, made with Unity5. Created at VirtualWeekend Hamburg, 2015-10-23 - 2015-10-25 ( http://www.virtualweekend.com/, http://www.meetup.com/de/VirtualWeekend/ )
 
-Created at VirtualWeekend Hamburg, 2015-10-23 - 2015-10-25 ( http://www.virtualweekend.com/, http://www.meetup.com/de/VirtualWeekend/ )
-
-Required hardware:
+## Required hardware:
 - Host development system, e.g. a computer running Win7, Win8.1.
 - Android smartphone, with gyro.
 - Google "Google Cardboard" ( http://en.wikipedia.org/wiki/Google_Cardboard )
 
-Instructions for system setup:
+## Instructions for system setup:
 - Install Unity ( http://www.unity3d.com/ )
 - Install Java SDK 8  ( http://www.oracle.com/technetwork/java/javase/ )
 - Install Android ADK, shipped with Android Studio ( http://developer.android.com/ )
