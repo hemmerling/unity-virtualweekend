@@ -7,10 +7,12 @@ Required hardware:
 - Google "Google Cardboard" ( http://en.wikipedia.org/wiki/Google_Cardboard )
 
 Instructions for system setup:
-- Install Unity
-- Install Standard Assets
-- Import Standard Assets
-- Import the Asset "Dive SDK" ( http://www.durovis.com/sdk.html )
+- Install Unity ( http://www.unity3d.com/ )
+- Install Java SDK 8  ( http://www.oracle.com/technetwork/java/javase/ )
+- Install Android ADK, shipped with Android Studio ( http://developer.android.com/ )
+- Install Unity Standard Assets
+- Import Unity Standard Assets
+- Import the Unity Asset "Dive SDK" ( http://www.durovis.com/sdk.html )
 - Create an empty Unity project
 - Transfer the files of this GitHub's project directory "Assets" to the "Assets" directory of your Unity project.
 - Open a Unity Scene, i.e. one of the “Assets/*.unity” files.
