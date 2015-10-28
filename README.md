@@ -1,6 +1,8 @@
 # unity-virtualweekend
 A simple demonstration project for Android Smartphone with CardBoard, made with Unity5. Created at VirtualWeekend Hamburg, 2015-10-23 - 2015-10-25 ( http://www.virtualweekend.com/, http://www.meetup.com/de/VirtualWeekend/ )
 
+![Unity IDE, loaded with 'Virtualweekend" project](/doc/images/virtualweekend.jpg "Unity IDE, loaded with 'Virtualweekend" project") 
+
 ## Required hardware:
 - Host development system, e.g. a computer running Win7, Win8.1.
 - Android smartphone, with Gyroscope feature.
