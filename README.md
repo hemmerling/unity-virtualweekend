@@ -4,7 +4,7 @@ A simple demonstration project for Android Smartphone with CardBoard, made with 
 ## Required hardware:
 - Host development system, e.g. a computer running Win7, Win8.1.
 - Android smartphone, with Gyroscope feature.
-- Google "Google Cardboard" ( http://en.wikipedia.org/wiki/Google_Cardboard )
+- Google Cardboard ( http://en.wikipedia.org/wiki/Google_Cardboard )
 
 ## Instructions for system setup:
 - Install Unity ( http://www.unity3d.com/ )
