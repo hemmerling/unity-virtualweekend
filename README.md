@@ -1,14 +1,14 @@
 # unity-virtualweekend
 A simple demonstration project for Android Smartphone with CardBoard, made with Unity5
 
-You need
+Required hardware:
 - Host development system, e.g. a computer running Win7, Win8.1.
 - Android smartphone, with gyro.
 - Google "Google Cardboard" ( http://en.wikipedia.org/wiki/Google_Cardboard )
 
 Instructions for system setup:
 - Install Unity
-- InstallStandard Assets
+- Install Standard Assets
 - Import Standard Assets
 - Import the Asset "Dive SDK" ( http://www.durovis.com/sdk.html )
 - Create an empty Unity project
