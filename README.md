@@ -11,9 +11,9 @@ Instructions for system setup:
 - Install Java SDK 8  ( http://www.oracle.com/technetwork/java/javase/ )
 - Install Android ADK, shipped with Android Studio ( http://developer.android.com/ )
 - Install Unity Standard Assets
-- Import Unity Standard Assets
-- Import the Unity Asset "Dive SDK" ( http://www.durovis.com/sdk.html )
 - Create an empty Unity project
+  - Import Unity Standard Assets
+  - Import the Unity Asset "Dive SDK" ( http://www.durovis.com/sdk.html )
 - Transfer the files of this GitHub's project directory "Assets" to the "Assets" directory of your Unity project.
 - Open a Unity Scene, i.e. one of the “Assets/*.unity” files.
 
