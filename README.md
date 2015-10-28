@@ -2,18 +2,18 @@
 A simple demonstration project for Android Smartphone with CardBoard, made with Unity5
 
 You need
--Host development system, e.g. a computer running Win7, Win8.1.
--Android smartphone, with gyro.
--Google "Google Cardboard" ( 
+- Host development system, e.g. a computer running Win7, Win8.1.
+- Android smartphone, with gyro.
+- Google "Google Cardboard" ( 
 
 Instructions for system setup:
--Install Unity
--InstallStandard Assets
--Import Standard Assets
--Import the Asset "Dive SDK" ( http://www.durovis.com/sdk.html )
--Create an empty Unity project
--Transfer the files of this GitHub's project directory "Assets" to the "Assets" directory of your Unity project.
--Open a Unity Scene, i.e. one of the “Assets/*.unity” files.
+- Install Unity
+- InstallStandard Assets
+- Import Standard Assets
+- Import the Asset "Dive SDK" ( http://www.durovis.com/sdk.html )
+- Create an empty Unity project
+- Transfer the files of this GitHub's project directory "Assets" to the "Assets" directory of your Unity project.
+- Open a Unity Scene, i.e. one of the “Assets/*.unity” files.
 
 Please read 
 http://www.hemmerling.com/doku.php/en/gameapp.html
