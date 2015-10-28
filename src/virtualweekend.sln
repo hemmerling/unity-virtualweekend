@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{14DE8771-A454-11A3-152B-88AE06147A06}") = "virtualweekend", "Assembly-CSharp-firstpass.csproj", "{90847FC4-FE45-B1A1-9A22-64266D578E0B}"
 EndProject
+Project("{14DE8771-A454-11A3-152B-88AE06147A06}") = "virtualweekend", "Assembly-CSharp.csproj", "{FD6F8F01-B5D5-F5FB-C7EB-CFD6792A46E5}"
+EndProject
 Project("{14DE8771-A454-11A3-152B-88AE06147A06}") = "virtualweekend", "Assembly-CSharp-Editor.csproj", "{E34C6B85-959C-6B16-3F21-C662855F7522}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{90847FC4-FE45-B1A1-9A22-64266D578E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90847FC4-FE45-B1A1-9A22-64266D578E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90847FC4-FE45-B1A1-9A22-64266D578E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6F8F01-B5D5-F5FB-C7EB-CFD6792A46E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6F8F01-B5D5-F5FB-C7EB-CFD6792A46E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6F8F01-B5D5-F5FB-C7EB-CFD6792A46E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6F8F01-B5D5-F5FB-C7EB-CFD6792A46E5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E34C6B85-959C-6B16-3F21-C662855F7522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E34C6B85-959C-6B16-3F21-C662855F7522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E34C6B85-959C-6B16-3F21-C662855F7522}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,7 +29,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-														GlobalSection(MonoDevelopProperties) = preSolution
+																		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
